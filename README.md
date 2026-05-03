@@ -167,6 +167,15 @@ streamlit run app/app.py
 
 ---
 
+💼 Skills Demonstrated
+Data Cleaning & Preprocessing
+SQL Analytics
+Data Engineering Basics
+Dashboard Development (Streamlit)
+Business Problem Solving
+
+---
+
 ## 🚀 Conclusion
 
 This project demonstrates how **SQL + Python + Streamlit** can be used to build a real-world decision support system, enabling businesses like Uber Eats to make smarter, data-driven decisions.

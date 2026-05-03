@@ -125,7 +125,6 @@ To analyze Uber Eats Bangalore restaurant data and develop a system that:
 ---
 
 ## 📂 Project Structure
-
 Uber Eats Decision Support/
 │
 ├── data/
@@ -155,10 +154,25 @@ Uber Eats Decision Support/
 ```bash
 pip install pandas streamlit
 streamlit run app/app.py
-🎯 Project Deliverables
+
+---
+## 🎯 Project Deliverables
+
 ✅ Clean SQL database
 ✅ Python data processing scripts
 ✅ SQL-based analytics queries
 ✅ Streamlit dashboard (tabular outputs only)
 ✅ 10 business questions implemented
 ✅ GitHub-ready documentation
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how **SQL + Python + Streamlit** can be used to build a real-world decision support system, enabling businesses like Uber Eats to make smarter, data-driven decisions.
+
+
+
+
+
+
